@@ -1,0 +1,10 @@
+[Component]
+    Name = "GLOBAL.Chasing Horses LLC.Vintage LLC.Hipster Store.frontend"
+    Version = "1.2.2"
+    ChartName = "chart/frontend"
+    DockerRepo = "quay.io/hipsterstore/frontend"
+    GitUrl = "https://github.com/ortelius/store-frontend"
+    HelmChart = "GLOBAL.HelmChart"
+    Applications = [
+        "GLOBAL.Chasing Horses LLC.Vintage LLC.Hipster Store.Webstore;July 4th Sale;1.2.9.1"
+    ]
