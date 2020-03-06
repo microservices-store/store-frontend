@@ -7,4 +7,4 @@
     ChartName = "chart/frontend"
     DockerRepo = "quay.io/hipsterstore/frontend"
     GitUrl = "https://github.com/ortelius/store-frontend"
-    HelmChart = "GLOBAL.HelmChart"
+    CustomAction = "GLOBAL.HelmChart"
